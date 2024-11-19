@@ -69,7 +69,6 @@ ul li {
     margin-bottom: 5px;
 }
 
-/* Media Query */
 @media (max-width: 768px) {
     #navbar {
         width: 100%;
